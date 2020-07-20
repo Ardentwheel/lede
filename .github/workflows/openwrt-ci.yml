@@ -167,6 +167,9 @@ jobs:
           CONFIG_PACKAGE_luci-app-sqm=y
           CONFIG_PACKAGE_collectd-mod-sqm=y
           CONFIG_PACKAGE_luci-app-diskman=y
+          CONFIG_PACKAGE_luci-app-airplay2=y
+          CONFIG_PACKAGE_luci-app-music-remote-center=y
+          CONFIG_PACKAGE_luci-app-cifs-mount=y
           EOF
 
           # LuCI主题:
