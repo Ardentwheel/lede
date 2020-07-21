@@ -171,7 +171,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-music-remote-center=y
           CONFIG_PACKAGE_luci-app-cifs-mount=y
           CONFIG_PACKAGE_luci-app-openclash=y
-          CONFIG_PACKAGE_luci-app-advancedsetting=y
           CONFIG_PACKAGE_luci-app-adguardhome=y
           CONFIG_PACKAGE_luci-app-smartdns=y
           CONFIG_PACKAGE_luci-app-passwall=y
